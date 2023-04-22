@@ -1,0 +1,6 @@
+{
+      "name"        : "Pedilo",
+      "script"      : "./server.js",
+      "watch"       : true,
+      "exec_interpreter" : "node@16.16.0"
+    }
